@@ -41,3 +41,14 @@ The data_offers data set is a simple map with 2 columns:
 order_gk - order number, associated with the same column from the orders data set
 
 offer_id - ID of an offer
+
+<h4>Summary:</h4>
+
+After careful analysis of data using python I provided actionable insights for improving service efficiency and customer satisfaction. Here are some summarized recommendations based on the analysis:
+
+ - <b>Address Client Cancellations:</b> If client cancellations are high, consider investigating and addressing the root causes such as app usability, wait times, or alternative transport options.
+ - <b>Improve Driver Availability:</b> Ensure sufficient driver availability during peak hours and high-demand locations.
+ - <b>Optimize Operations:</b> Use insights from cancellation times and ETAs to optimize driver shifts, incentives, and route planning.
+ - <b>Geospatial Strategies:</b> Focus on high-demand hexagons for better resource allocation and problem resolution.
+
+By addressing these areas, Gett can enhance its Ground Transportation Management service, leading to improved customer satisfaction and operational efficiency.
